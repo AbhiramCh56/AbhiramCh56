@@ -1,6 +1,6 @@
 # Hi, I'm Abhiram 👋
 
-### Software Engineer | Python Backend | Applied AI & LLMs
+### Full Stack Engineer | Python Backend | Applied AI & LLMs
 
 I'm a Computer Science graduate specializing in Artificial Intelligence and Machine Learning, interested in building reliable software systems and practical AI-powered applications.
 

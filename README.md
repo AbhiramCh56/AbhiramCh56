@@ -36,7 +36,7 @@ PostgreSQL · MySQL · Firebase · ChromaDB · Git · GitHub · Docker · Linux 
 
 ### 🚀 Featured Projects
 
-**[RepoMind AI](https://github.com/AbhiramCh56/Repomind)**
+**[RepoLexicon](https://github.com/AbhiramCh56/Repomind)**
 
 An AI-powered repository understanding tool that lets developers explore and ask questions about their codebases using Retrieval-Augmented Generation (RAG).
 
